@@ -11,7 +11,7 @@
 ## 📚 Repositories Index
 - `notes`: Note A/B/C 随笔讲义与配套演示代码
   - `docs/`: CC BY-NC 4.0 讲义、习题、教学素材
-  - `examples/`: MIT 配套Python演示代码
+  - `src/`: MIT 配套Python演示代码
 - `calc-insight-kit`: 数理计算底层工具包（MIT）
 - `logic-opt-kit`: 逻辑与优化底层工具包（MIT）
 - `reason-rl-kit`: 推理强化学习工具包（MIT，规划开发中）
